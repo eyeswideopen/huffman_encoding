@@ -1,0 +1,15 @@
+Number of Chunks processed: 	475
+Number of Chunks per second: 	132
+Slowest Chunk (ms): 	32.025492
+Fastest Chunk (ms): 	4.618382
+Average Chunk (ms): 	9.85548758736842
+Geometric Mean (ms): 	9.204837257227656
+Standard deviation (ms): 	4.035491927803822
+Variance (ms): 	16.28519509936981
+Overall running Time (ms): 	3572.688924
+Real Working Time (ms): 	4907.620548
+Real Working Time of Thread 1 (ms): 	3047.994452
+Real Working Time of Thread 8 (ms): 	1859.626096
+Process Idle (2 thread(s)) %: 	31.317550276593856
+Process Idle of Thread 1 %: 	14.68626245277882
+Process Idle of Thread 8 %: 	47.94883810040888

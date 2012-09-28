@@ -1,0 +1,2 @@
+#!/bin/sh
+java -cp Huffman.jar application.CommandLineClient $*

@@ -1,0 +1,9 @@
+{1}[4451533440248]ChunkTaskManagement@0-0:WaitingForDependencies
+{1}[4451533586015]ChunkTaskManagement@0-0:Running
+{1}[4451533680736]ChunkTaskManagement@0-0:Completed
+{1}[4451533735226]SequentialHuffmanAlgorithmTask@0-6:WaitingForDependencies
+{1}[4451533768296]SequentialHuffmanAlgorithmTask@0-6:Running
+{1}[4453957877091]SequentialHuffmanAlgorithmTask@0-6:Completed
+{1}[4453957920539]EndTask@0-7:WaitingForDependencies
+{1}[4453957959660]EndTask@0-7:Running
+{1}[4453958105561]EndTask@0-7:Completed
